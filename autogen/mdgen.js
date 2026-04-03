@@ -100,7 +100,7 @@ for (const yamlFile of yamlFiles) {
         appendLine("")
     }
 
-    if (!c.IsInstantiatable) {
+    if (!c.IsInstantiable) {
         appendLine("{{ notnewable() }}")
         appendLine("")
     }
