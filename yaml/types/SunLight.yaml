@@ -1,5 +1,6 @@
 Name: SunLight
 BaseType: Light
+Category: lighting
 Properties: []
 Methods: []
 Events: []

@@ -1,5 +1,6 @@
 Name: Decal
 BaseType: Dynamic
+Category: elements
 Properties:
   - Name: Image
     Type: ImageAsset

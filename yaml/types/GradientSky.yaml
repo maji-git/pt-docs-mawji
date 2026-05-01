@@ -1,5 +1,6 @@
 Name: GradientSky
 BaseType: Sky
+Category: lighting
 Properties:
   - Name: SunDiscColor
     Type: Color
